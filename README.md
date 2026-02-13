@@ -45,7 +45,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "AYUNDAA"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -57,15 +57,15 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: "SEBERAPA SUKA SI SAMA AKUU?",                   // First question
+        yesBtn: "YA",                             // Yes button text
+        noBtn: "TIDAK",                               // No button text
+        secretAnswer: "GA SUKA AJA. AKU CINTAAA! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        text: "SEBERAPA SAYANG SI EMANG?",          // Second question
+        startText: "SEGINI ^.^",                   // Text before percentage
+        nextBtn: "Lanjutt.... ❤️"                         // Next button text
     },
     third: {
         text: "Will you be my Valentine...?",      // Final question
@@ -76,15 +76,15 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "IYAKAHHHH ?? 🥰🚀💝",  // Shows above 5000%
+    high: "TERIMAKASIH SAYANGKUUUU! 🚀💝",              // Shows above 1000%
+    normal: "MANTAPPP! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "OMAYGADDD, TERIMAKASIH BEBBIIII",     // Celebration title
+    message: "HAPPY VALENTINES DAY MY BELOVED YUNDA, I Hope Whatever we faced this year, will make us stronger and better than ever.",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
