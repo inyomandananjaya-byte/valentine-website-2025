@@ -109,7 +109,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
+    musicUrl: ["YOUR_CLOUDINARY_URL_HERE"](https://res.cloudinary.com/dg7y9zike/video/upload/v1770997899/Jesse_Barrera_Michael_Carreon_Albert_Posis_-_Maybe_We_Could_Be_a_Thing_Lyric_Video_o7pui6.mp3), // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
@@ -146,7 +146,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your URL here
+    musicUrl: ["YOUR_CLOUDINARY_URL_HERE"](https://res.cloudinary.com/dg7y9zike/video/upload/v1770997899/Jesse_Barrera_Michael_Carreon_Albert_Posis_-_Maybe_We_Could_Be_a_Thing_Lyric_Video_o7pui6.mp3), // Paste your URL here
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
